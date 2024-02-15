@@ -1,0 +1,5 @@
+# 8시 52분 시작
+SELECT *
+FROM ANIMAL_INS
+ORDER BY 1
+# 8시 52분 종료
