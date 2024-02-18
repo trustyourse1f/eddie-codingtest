@@ -1,5 +1,3 @@
-# test_cases = input().split('\n')
-
 test_cases = input().split('\n')
 
 for test_case in test_cases:
