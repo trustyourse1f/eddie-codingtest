@@ -1,3 +1,7 @@
+'''
+- link: https://www.acmicpc.net/problem/1107
+- level: G1
+'''
 # 1. My answer
 import re
 N = int(input())
