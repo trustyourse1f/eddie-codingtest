@@ -1,5 +1,5 @@
 test_cases = input().split('\n')
 
-for i in range(len(test_cases)):
-    a, b = map(int, test_cases[i].split(' '))
+for test_case in test_cases:
+    a, b = map(int, test_case.split(' '))
     print(a+b)
