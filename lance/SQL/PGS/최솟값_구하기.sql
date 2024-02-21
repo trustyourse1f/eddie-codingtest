@@ -1,0 +1,5 @@
+# 8시 2분 시작 / 8시 3분 종료
+SELECT MIN(DATETIME)
+FROM ANIMAL_INS
+
+# ORDER BY 1
