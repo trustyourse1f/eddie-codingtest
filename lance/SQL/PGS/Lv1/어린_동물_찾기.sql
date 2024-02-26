@@ -1,0 +1,8 @@
+# 9시 6분 시작
+SELECT
+    ANIMAL_ID,
+    NAME
+FROM ANIMAL_INS
+WHERE INTAKE_CONDITION != 'Aged'
+ORDER BY 1
+# 9시 7분 종료
