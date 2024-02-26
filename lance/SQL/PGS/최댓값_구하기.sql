@@ -1,4 +1,0 @@
-# 3시 28분 시작
-SELECT MAX(DATETIME) AS '시간'
-FROM ANIMAL_INS
-# 3시 29분 종료

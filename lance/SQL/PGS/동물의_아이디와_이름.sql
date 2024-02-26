@@ -1,7 +1,0 @@
-# 3시 13분 시작
-SELECT 
-    ANIMAL_ID,
-    NAME
-FROM ANIMAL_INS
-ORDER BY 1
-# 3시 14분 종료

@@ -1,3 +1,0 @@
-# 8시 4분 시작 / 8시 5분 종료
-SELECT COUNT(*)
-FROM ANIMAL_INS
