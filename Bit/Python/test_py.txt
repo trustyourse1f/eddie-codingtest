@@ -1,0 +1,5 @@
+[ 알고리즘 문제 링크 ]
+https://covenant.tistory.com/224
+
+[ 까먹은 함수 ]
+- 파이썬 절대값 계산 : abs()
