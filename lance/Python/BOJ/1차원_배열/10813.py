@@ -5,8 +5,6 @@ basket = list()
 for i in range(n):
     basket.append(i+1)
 
-print(basket)
-
 for _ in range(m):
     temp = 0
     i, j = map(int, input().split(' '))
