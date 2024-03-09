@@ -9,5 +9,4 @@ count_dict = {}
 for i in str:
     count_dict[i] = str.count(i)
 
-    
-print(count_dict.fromkeys(max(count_dict)))
+print(max(count))
