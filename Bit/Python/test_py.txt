@@ -3,3 +3,7 @@ https://covenant.tistory.com/224
 
 [ 까먹은 함수 ]
 - 파이썬 절대값 계산 : abs()
+- 공백없이 모든 글자 분리 : list(문자열)
+- unpacking : print(*arr)
+- index 로 쓸 일 없으면 _
+- 초기화 : arr = [0]*n
