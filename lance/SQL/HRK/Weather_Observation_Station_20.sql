@@ -1,0 +1,8 @@
+SELECT ROUND(LAT_N, 4)
+FROM (SELECT LAT_N, COUNT(*) OVER() AS n, ROW_NUMBER() OVER(ORDER  BY LAT_N) AS rn
+     FROM STATION) AS SUB_Q
+WHERE
+    CASE
+        WHEN MOD(n, 2) = 1 THEN rn = (n+1)/2
+        ELSE  rn = n/2
+    END
